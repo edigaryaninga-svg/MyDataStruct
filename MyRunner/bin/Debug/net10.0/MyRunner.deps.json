@@ -1,0 +1,242 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MyRunner/1.0.0": {
+        "dependencies": {
+          "BinaryTreeProj": "1.0.0",
+          "MyBubbleSortProj": "1.0.0",
+          "MyHashTableAlgorithms": "1.0.0",
+          "MyInsertionSortProj": "1.0.0",
+          "MyLinkedListProj": "1.0.0",
+          "MyMergeSortProj": "1.0.0",
+          "MyPriorityQueue": "1.0.0",
+          "MyQueueProj": "1.0.0",
+          "MyQuickSortProj": "1.0.0",
+          "MySelectionSortProj": "1.0.0",
+          "MySet": "1.0.0",
+          "MyStackArrayProj": "1.0.0",
+          "MyStackProj": "1.0.0",
+          "PostfixCalculator": "1.0.0"
+        },
+        "runtime": {
+          "MyRunner.dll": {}
+        }
+      },
+      "BinaryTreeProj/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0",
+          "MyQueueProj": "1.0.0",
+          "MyStackProj": "1.0.0"
+        },
+        "runtime": {
+          "BinaryTreeProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyBubbleSortProj/1.0.0": {
+        "runtime": {
+          "MyBubbleSortProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyHashTableAlgorithms/1.0.0": {
+        "runtime": {
+          "MyHashTableAlgorithms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyInsertionSortProj/1.0.0": {
+        "runtime": {
+          "MyInsertionSortProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyLinkedListProj/1.0.0": {
+        "runtime": {
+          "MyLinkedListProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyMergeSortProj/1.0.0": {
+        "runtime": {
+          "MyMergeSortProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyPriorityQueue/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0",
+          "MySelectionSortProj": "1.0.0"
+        },
+        "runtime": {
+          "MyPriorityQueue.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyQueueProj/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "runtime": {
+          "MyQueueProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyQuickSortProj/1.0.0": {
+        "runtime": {
+          "MyQuickSortProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MySelectionSortProj/1.0.0": {
+        "runtime": {
+          "MySelectionSortProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MySet/1.0.0": {
+        "runtime": {
+          "MySet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyStackArrayProj/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "runtime": {
+          "MyStackArrayProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyStackProj/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "runtime": {
+          "MyStackProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PostfixCalculator/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "runtime": {
+          "PostfixCalculator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinaryTreeProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBubbleSortProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyHashTableAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyInsertionSortProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLinkedListProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMergeSortProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyPriorityQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyQueueProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyQuickSortProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySelectionSortProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyStackArrayProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyStackProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostfixCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
