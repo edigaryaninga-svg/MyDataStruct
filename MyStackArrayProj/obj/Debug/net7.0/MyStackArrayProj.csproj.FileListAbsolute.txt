@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\bin\Debug\net7.0\MyStackArrayProj.deps.json
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\bin\Debug\net7.0\MyStackArrayProj.dll
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\bin\Debug\net7.0\MyStackArrayProj.pdb
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\bin\Debug\net7.0\MyLinkedListProj.dll
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\bin\Debug\net7.0\MyLinkedListProj.pdb
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.AssemblyInfo.cs
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.sourcelink.json
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackA.2E94388D.Up2Date
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.dll
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\refint\MyStackArrayProj.dll
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\MyStackArrayProj.pdb
+C:\Users\User\source\repos\MyDataStructtt\MyStackArrayProj\obj\Debug\net7.0\ref\MyStackArrayProj.dll

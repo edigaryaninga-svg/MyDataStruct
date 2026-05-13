@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\MyDataStructtt\MySet\bin\Debug\net7.0\MySet.deps.json
+C:\Users\User\source\repos\MyDataStructtt\MySet\bin\Debug\net7.0\MySet.dll
+C:\Users\User\source\repos\MyDataStructtt\MySet\bin\Debug\net7.0\MySet.pdb
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\MySet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\MySet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\MySet.AssemblyInfo.cs
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\MySet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\MySet.sourcelink.json
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\MySet.dll
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\refint\MySet.dll
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\MySet.pdb
+C:\Users\User\source\repos\MyDataStructtt\MySet\obj\Debug\net7.0\ref\MySet.dll
