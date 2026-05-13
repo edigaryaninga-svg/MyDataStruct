@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\bin\Debug\net10.0\MyChessProj.exe
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\bin\Debug\net10.0\MyChessProj.deps.json
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\bin\Debug\net10.0\MyChessProj.runtimeconfig.json
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\bin\Debug\net10.0\MyChessProj.dll
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\bin\Debug\net10.0\MyChessProj.pdb
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.AssemblyInfo.cs
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.sourcelink.json
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.dll
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\refint\MyChessProj.dll
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.pdb
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\MyChessProj.genruntimeconfig.cache
+C:\Users\User\source\repos\MyDataStructtt\MyChessProj\obj\Debug\net10.0\ref\MyChessProj.dll

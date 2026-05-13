@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BinaryTreeProj/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0",
+          "MyQueueProj": "1.0.0",
+          "MyStackProj": "1.0.0"
+        },
+        "runtime": {
+          "BinaryTreeProj.dll": {}
+        }
+      },
+      "MyLinkedListProj/1.0.0": {
+        "runtime": {
+          "MyLinkedListProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyQueueProj/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "runtime": {
+          "MyQueueProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyStackProj/1.0.0": {
+        "dependencies": {
+          "MyLinkedListProj": "1.0.0"
+        },
+        "runtime": {
+          "MyStackProj.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryTreeProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLinkedListProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyQueueProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyStackProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
