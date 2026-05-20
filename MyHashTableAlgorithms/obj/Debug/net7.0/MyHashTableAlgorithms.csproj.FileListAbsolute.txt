@@ -10,3 +10,15 @@ C:\Users\User\source\repos\MyDataStructtt\MyHashTableAlgorithms\obj\Debug\net7.0
 C:\Users\User\source\repos\MyDataStructtt\MyHashTableAlgorithms\obj\Debug\net7.0\refint\MyHashTableAlgorithms.dll
 C:\Users\User\source\repos\MyDataStructtt\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.pdb
 C:\Users\User\source\repos\MyDataStructtt\MyHashTableAlgorithms\obj\Debug\net7.0\ref\MyHashTableAlgorithms.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\bin\Debug\net7.0\MyHashTableAlgorithms.deps.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\bin\Debug\net7.0\MyHashTableAlgorithms.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\bin\Debug\net7.0\MyHashTableAlgorithms.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.AssemblyInfo.cs
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.sourcelink.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\refint\MyHashTableAlgorithms.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\MyHashTableAlgorithms.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyHashTableAlgorithms\obj\Debug\net7.0\ref\MyHashTableAlgorithms.dll

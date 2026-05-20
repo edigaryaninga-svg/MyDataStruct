@@ -121,5 +121,30 @@
         }
         return -1;
     }
+static bool CanBishopMove(int startRow, int startCol, int targetRow, int targetCol)
+{
+    if (startRow == targetRow && startCol == targetCol)
+        return false;
 
+    return Math.Abs(startRow - targetRow) == Math.Abs(startCol - targetCol);
+}
+
+static bool CanBishopMoveWithObstacles(int startRow, int startCol, int targetRow, int targetCol, int[,] board)
+{
+    if (!CanBishopMove(startRow, startCol, targetRow, targetCol))
+        return false;
+    int rowStep = (targetRow > startRow) ? 1 : -1;
+    int colStep = (targetCol > startCol) ? 1 : -1;
+    int currentRow = startRow + rowStep;
+    int currentCol = startCol + colStep;
+
+    while (currentRow != targetRow && currentCol != targetCol)
+    {
+        if (board[currentRow, currentCol] != 0)
+            return false;
+        currentRow += rowStep;
+        currentCol += colStep;
+    }
+    return true;
+}
 }

@@ -10,3 +10,15 @@ C:\Users\User\source\repos\MyDataStructtt\MyMergeSortProj\obj\Debug\net10.0\MyMe
 C:\Users\User\source\repos\MyDataStructtt\MyMergeSortProj\obj\Debug\net10.0\refint\MyMergeSortProj.dll
 C:\Users\User\source\repos\MyDataStructtt\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.pdb
 C:\Users\User\source\repos\MyDataStructtt\MyMergeSortProj\obj\Debug\net10.0\ref\MyMergeSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\bin\Debug\net10.0\MyMergeSortProj.deps.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\bin\Debug\net10.0\MyMergeSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\bin\Debug\net10.0\MyMergeSortProj.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.AssemblyInfo.cs
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.sourcelink.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\refint\MyMergeSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\MyMergeSortProj.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyMergeSortProj\obj\Debug\net10.0\ref\MyMergeSortProj.dll

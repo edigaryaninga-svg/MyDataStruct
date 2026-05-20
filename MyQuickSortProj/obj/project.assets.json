@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyQuickSortProj\\MyQuickSortProj.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyQuickSortProj\\MyQuickSortProj.csproj",
       "projectName": "MyQuickSortProj",
-      "projectPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyQuickSortProj\\MyQuickSortProj.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyQuickSortProj\\MyQuickSortProj.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyQuickSortProj\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyQuickSortProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

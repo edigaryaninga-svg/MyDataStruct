@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj": {}
+    "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj": {
+    "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj",
         "projectName": "MyHashTableAlgorithms",
-        "projectPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyHashTableAlgorithms\\MyHashTableAlgorithms.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyHashTableAlgorithms\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyHashTableAlgorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

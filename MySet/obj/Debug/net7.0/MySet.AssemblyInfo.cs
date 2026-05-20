@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MySet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e345cd25ed42abcda7cebb445670bcd463188266")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f93b5d2f70e6353eeb0858f96f58fd64cdab7f4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MySet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MySet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

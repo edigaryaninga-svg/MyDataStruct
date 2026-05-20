@@ -10,3 +10,15 @@ C:\Users\User\source\repos\MyDataStructtt\MyInsertionSortProj\obj\Debug\net10.0\
 C:\Users\User\source\repos\MyDataStructtt\MyInsertionSortProj\obj\Debug\net10.0\refint\MyInsertionSortProj.dll
 C:\Users\User\source\repos\MyDataStructtt\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.pdb
 C:\Users\User\source\repos\MyDataStructtt\MyInsertionSortProj\obj\Debug\net10.0\ref\MyInsertionSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\bin\Debug\net10.0\MyInsertionSortProj.deps.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\bin\Debug\net10.0\MyInsertionSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\bin\Debug\net10.0\MyInsertionSortProj.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.AssemblyInfo.cs
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.sourcelink.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\refint\MyInsertionSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\MyInsertionSortProj.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MyInsertionSortProj\obj\Debug\net10.0\ref\MyInsertionSortProj.dll

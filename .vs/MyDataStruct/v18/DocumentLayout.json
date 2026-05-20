@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9253C27C-1B16-414E-9D7D-B2741792997E}|MyChessProj\\MyChessProj.csproj|c:\\users\\user\\source\\repos\\edigaryaninga-svg\\mydatastruct\\mychessproj\\mychessproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253C27C-1B16-414E-9D7D-B2741792997E}|MyChessProj\\MyChessProj.csproj|solutionrelative:mychessproj\\mychessproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyChessProj.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyChessProj\\MyChessProj.cs",
+              "RelativeDocumentMoniker": "MyChessProj\\MyChessProj.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyChessProj\\MyChessProj.cs*",
+              "RelativeToolTip": "MyChessProj\\MyChessProj.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAHoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T13:31:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

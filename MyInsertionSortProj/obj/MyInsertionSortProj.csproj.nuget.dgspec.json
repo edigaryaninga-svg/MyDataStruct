@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyInsertionSortProj\\MyInsertionSortProj.csproj": {}
+    "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyInsertionSortProj\\MyInsertionSortProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyInsertionSortProj\\MyInsertionSortProj.csproj": {
+    "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyInsertionSortProj\\MyInsertionSortProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyInsertionSortProj\\MyInsertionSortProj.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyInsertionSortProj\\MyInsertionSortProj.csproj",
         "projectName": "MyInsertionSortProj",
-        "projectPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyInsertionSortProj\\MyInsertionSortProj.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyInsertionSortProj\\MyInsertionSortProj.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyInsertionSortProj\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyInsertionSortProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

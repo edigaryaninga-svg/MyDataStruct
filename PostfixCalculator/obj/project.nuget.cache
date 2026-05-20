@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgFa1KTkyiM=",
+  "dgSpecHash": "XqyPrB7P58Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\PostfixCalculator\\PostfixCalculator.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\PostfixCalculator\\PostfixCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

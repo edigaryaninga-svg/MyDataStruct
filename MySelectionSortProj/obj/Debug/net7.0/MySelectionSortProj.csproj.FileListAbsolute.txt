@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\bin\Debug\net7.0\MySelectionSortProj.deps.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\bin\Debug\net7.0\MySelectionSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\bin\Debug\net7.0\MySelectionSortProj.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\MySelectionSortProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\MySelectionSortProj.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\MySelectionSortProj.AssemblyInfo.cs
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\MySelectionSortProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\MySelectionSortProj.sourcelink.json
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\MySelectionSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\refint\MySelectionSortProj.dll
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\MySelectionSortProj.pdb
+C:\Users\User\source\repos\edigaryaninga-svg\MyDataStruct\MySelectionSortProj\obj\Debug\net7.0\ref\MySelectionSortProj.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyMergeSortProj\\MyMergeSortProj.csproj": {}
+    "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyMergeSortProj\\MyMergeSortProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyMergeSortProj\\MyMergeSortProj.csproj": {
+    "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyMergeSortProj\\MyMergeSortProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyMergeSortProj\\MyMergeSortProj.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyMergeSortProj\\MyMergeSortProj.csproj",
         "projectName": "MyMergeSortProj",
-        "projectPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyMergeSortProj\\MyMergeSortProj.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyMergeSortProj\\MyMergeSortProj.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\MyDataStructtt\\MyMergeSortProj\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\MyMergeSortProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
