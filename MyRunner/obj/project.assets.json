@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {
+    "net10.0-windows7.0": {
       "BinaryTreeProj/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -162,6 +162,22 @@
         "runtime": {
           "bin/placeholder/PostfixCalculator.dll": {}
         }
+      },
+      "WpfApp1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "MySet": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WpfApp1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WpfApp1.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -235,10 +251,15 @@
       "type": "project",
       "path": "../PostfixCalculator/PostfixCalculator.csproj",
       "msbuildProject": "../PostfixCalculator/PostfixCalculator.csproj"
+    },
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "path": "../WpfApp1/WpfApp1.csproj",
+      "msbuildProject": "../WpfApp1/WpfApp1.csproj"
     }
   },
   "projectFileDependencyGroups": {
-    "net10.0": [
+    "net10.0-windows7.0": [
       "BinaryTreeProj >= 1.0.0",
       "MyBubbleSortProj >= 1.0.0",
       "MyHashTableAlgorithms >= 1.0.0",
@@ -252,7 +273,8 @@
       "MySet >= 1.0.0",
       "MyStackArrayProj >= 1.0.0",
       "MyStackProj >= 1.0.0",
-      "PostfixCalculator >= 1.0.0"
+      "PostfixCalculator >= 1.0.0",
+      "WpfApp1 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -277,7 +299,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net10.0"
+        "net10.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -285,8 +307,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net10.0": {
-          "targetAlias": "net10.0",
+        "net10.0-windows7.0": {
+          "targetAlias": "net10.0-windows",
           "projectReferences": {
             "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\BinaryTreeProj\\BinaryTreeProj.csproj": {
               "projectPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\BinaryTreeProj\\BinaryTreeProj.csproj"
@@ -329,6 +351,9 @@
             },
             "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\PostfixCalculator\\PostfixCalculator.csproj": {
               "projectPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\PostfixCalculator\\PostfixCalculator.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\WpfApp1\\WpfApp1.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\edigaryaninga-svg\\MyDataStruct\\WpfApp1\\WpfApp1.csproj"
             }
           }
         }
@@ -346,8 +371,8 @@
       "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
-      "net10.0": {
-        "targetAlias": "net10.0",
+      "net10.0-windows7.0": {
+        "targetAlias": "net10.0-windows",
         "imports": [
           "net461",
           "net462",
